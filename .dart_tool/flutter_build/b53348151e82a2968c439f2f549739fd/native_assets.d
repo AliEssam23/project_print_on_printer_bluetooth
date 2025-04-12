@@ -1,0 +1,1 @@
+ /Users/lysam/Documents/GitHub/project_print_on_printer_bluetooth/.dart_tool/flutter_build/b53348151e82a2968c439f2f549739fd/native_assets.yaml: 

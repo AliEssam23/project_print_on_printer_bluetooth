@@ -13,29 +13,29 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->/Users/lysam/StudioProjects/project_print_on_printer_bluetooth/android/app/src/debug/AndroidManifest.xml:6:5-66
-15-->/Users/lysam/StudioProjects/project_print_on_printer_bluetooth/android/app/src/debug/AndroidManifest.xml:6:22-64
+15-->/Users/lysam/Documents/GitHub/project_print_on_printer_bluetooth/android/app/src/debug/AndroidManifest.xml:6:5-66
+15-->/Users/lysam/Documents/GitHub/project_print_on_printer_bluetooth/android/app/src/debug/AndroidManifest.xml:6:22-64
 16    <uses-permission android:name="android.permission.BLUETOOTH" />
-16-->/Users/lysam/StudioProjects/project_print_on_printer_bluetooth/android/app/src/main/AndroidManifest.xml:2:1-63
-16-->/Users/lysam/StudioProjects/project_print_on_printer_bluetooth/android/app/src/main/AndroidManifest.xml:2:18-61
+16-->/Users/lysam/Documents/GitHub/project_print_on_printer_bluetooth/android/app/src/main/AndroidManifest.xml:2:1-63
+16-->/Users/lysam/Documents/GitHub/project_print_on_printer_bluetooth/android/app/src/main/AndroidManifest.xml:2:18-61
 17    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
-17-->/Users/lysam/StudioProjects/project_print_on_printer_bluetooth/android/app/src/main/AndroidManifest.xml:3:9-77
-17-->/Users/lysam/StudioProjects/project_print_on_printer_bluetooth/android/app/src/main/AndroidManifest.xml:3:26-75
+17-->/Users/lysam/Documents/GitHub/project_print_on_printer_bluetooth/android/app/src/main/AndroidManifest.xml:3:9-77
+17-->/Users/lysam/Documents/GitHub/project_print_on_printer_bluetooth/android/app/src/main/AndroidManifest.xml:3:26-75
 18    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
-18-->/Users/lysam/StudioProjects/project_print_on_printer_bluetooth/android/app/src/main/AndroidManifest.xml:4:9-76
-18-->/Users/lysam/StudioProjects/project_print_on_printer_bluetooth/android/app/src/main/AndroidManifest.xml:4:26-74
+18-->/Users/lysam/Documents/GitHub/project_print_on_printer_bluetooth/android/app/src/main/AndroidManifest.xml:4:9-76
+18-->/Users/lysam/Documents/GitHub/project_print_on_printer_bluetooth/android/app/src/main/AndroidManifest.xml:4:26-74
 19    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-19-->/Users/lysam/StudioProjects/project_print_on_printer_bluetooth/android/app/src/main/AndroidManifest.xml:5:9-82
-19-->/Users/lysam/StudioProjects/project_print_on_printer_bluetooth/android/app/src/main/AndroidManifest.xml:5:26-80
+19-->/Users/lysam/Documents/GitHub/project_print_on_printer_bluetooth/android/app/src/main/AndroidManifest.xml:5:9-82
+19-->/Users/lysam/Documents/GitHub/project_print_on_printer_bluetooth/android/app/src/main/AndroidManifest.xml:5:26-80
 20    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
-20-->/Users/lysam/StudioProjects/project_print_on_printer_bluetooth/android/app/src/main/AndroidManifest.xml:6:9-79
-20-->/Users/lysam/StudioProjects/project_print_on_printer_bluetooth/android/app/src/main/AndroidManifest.xml:6:26-77
+20-->/Users/lysam/Documents/GitHub/project_print_on_printer_bluetooth/android/app/src/main/AndroidManifest.xml:6:9-79
+20-->/Users/lysam/Documents/GitHub/project_print_on_printer_bluetooth/android/app/src/main/AndroidManifest.xml:6:26-77
 21    <uses-permission android:name="android.permission.BLUETOOTH_ADVERTISE" />
-21-->/Users/lysam/StudioProjects/project_print_on_printer_bluetooth/android/app/src/main/AndroidManifest.xml:7:9-81
-21-->/Users/lysam/StudioProjects/project_print_on_printer_bluetooth/android/app/src/main/AndroidManifest.xml:7:26-79
+21-->/Users/lysam/Documents/GitHub/project_print_on_printer_bluetooth/android/app/src/main/AndroidManifest.xml:7:9-81
+21-->/Users/lysam/Documents/GitHub/project_print_on_printer_bluetooth/android/app/src/main/AndroidManifest.xml:7:26-79
 22    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
-22-->/Users/lysam/StudioProjects/project_print_on_printer_bluetooth/android/app/src/main/AndroidManifest.xml:4:9-76
-22-->/Users/lysam/StudioProjects/project_print_on_printer_bluetooth/android/app/src/main/AndroidManifest.xml:4:26-74
+22-->/Users/lysam/Documents/GitHub/project_print_on_printer_bluetooth/android/app/src/main/AndroidManifest.xml:4:9-76
+22-->/Users/lysam/Documents/GitHub/project_print_on_printer_bluetooth/android/app/src/main/AndroidManifest.xml:4:26-74
 23
 24    <permission
 24-->[androidx.core:core:1.13.1] /Users/lysam/.gradle/caches/transforms-3/889ae3adf7a24645889ee22f4dad2cac/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47

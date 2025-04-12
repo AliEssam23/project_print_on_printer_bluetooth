@@ -4,7 +4,7 @@
             "outputFile": "com.example.project_print_on_printer_bluetooth.app-mergeDebugResources-24:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/lysam/StudioProjects/project_print_on_printer_bluetooth/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/lysam/Documents/GitHub/project_print_on_printer_bluetooth/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
